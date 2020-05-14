@@ -13,7 +13,7 @@
 <td>911 2015 calls on Montgomery County - data visualization project</td>
 </tr>>
 <tr>
-<td><a href="https://github.com/OckerGui/DataScience/blob/master/DataVis/FinancalCrisis2016Project.ipynb" rel="nofollow">911Calls Data Vis</a></td>
+<td><a href="https://github.com/OckerGui/DataScience/blob/master/DataVis/FinancalCrisis2016Project.ipynb" rel="nofollow">Financial Data Vis</a></td>
 <td>2016 US Financial crisis - data visualization project - CuffLinks</td>
 </tr>
 <tr>
