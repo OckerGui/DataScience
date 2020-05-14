@@ -1,5 +1,3 @@
-## DataScience study projects
-
 <h2>Pandas - Matplotlib - Seaborn - Projects</h2>
 <p>Notebooks with python libs learning, references and projects.</p>
 <table>
