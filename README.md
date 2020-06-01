@@ -9,9 +9,13 @@
 </thead>
 <tbody>
 <tr>
+<td><a href="https://github.com/OckerGui/DataScience/blob/master/Custom_Keras_API_Project_Exercise.ipynb" rel="nofollow">Custom Keras project - Lending Club</a></td>
+<td>Custom LendingClub DataSet - DS course project (Data viz/cleaning and feat engineering)- TensorFlow/Keras model</td>
+</tr>
+<tr>
 <td><a href="https://github.com/OckerGui/DataScience/blob/master/DataVis/911CallsDataProject.ipynb" rel="nofollow">911Calls Data Vis</a></td>
 <td>911 2015 calls on Montgomery County - data visualization project</td>
-</tr>>
+</tr>
 <tr>
 <td><a href="https://github.com/OckerGui/DataScience/blob/master/DataVis/FinancalCrisis2016Project.ipynb" rel="nofollow">Financial Data Vis</a></td>
 <td>2016 US Financial crisis - data visualization project - CuffLinks</td>
