@@ -13,15 +13,15 @@
 <td>Custom LendingClub DataSet - DS course project (Data viz/cleaning and feat engineering)- TensorFlow/Keras model</td>
 </tr>
 <tr>
-<td><a href="https://github.com/OckerGui/DataScience/blob/master/DataVis/911CallsDataProject.ipynb" rel="nofollow">911Calls Data Vis</a></td>
+<td><a href="https://github.com/OckerGui/DataScience/blob/master/DataVis/911CallsDataProject.ipynb" rel="nofollow">911Calls Data Viz</a></td>
 <td>911 2015 calls on Montgomery County - data visualization project</td>
 </tr>
 <tr>
-<td><a href="https://github.com/OckerGui/DataScience/blob/master/DataVis/FinancalCrisis2016Project.ipynb" rel="nofollow">Financial Data Vis</a></td>
+<td><a href="https://github.com/OckerGui/DataScience/blob/master/DataVis/FinancalCrisis2016Project.ipynb" rel="nofollow">Financial Data Viz</a></td>
 <td>2016 US Financial crisis - data visualization project - CuffLinks</td>
 </tr>
 <tr>
-<td><a href="https://ockergui.github.io/DataScience/DataVis/mnist.html">My Mnist Project</a></td>
+<td><a href="https://ockergui.github.io/DataScience/DataVis/mnist.html">Mnist Project test</a></td>
 <td>Mnist TFlow on JSON publish testcase</td>
 </tr>
 </tbody>
