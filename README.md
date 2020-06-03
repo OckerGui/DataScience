@@ -13,6 +13,10 @@
 <td>Custom LendingClub DataSet - DS course project (Data viz/cleaning and feat engineering)- TensorFlow/Keras model</td>
 </tr>
 <tr>
+<td><a href="https://github.com/OckerGui/DataScience/blob/master/Covid_SC_Brazil.ipynb" rel="nofollow">Covid-19 graphs by city - SC/Brazil</a></td>
+<td>Covid-19 maps and graphs study on cities of Santa Catarina/Brazil</td>
+</tr>
+<tr>
 <td><a href="https://github.com/OckerGui/DataScience/blob/master/DataVis/911CallsDataProject.ipynb" rel="nofollow">911Calls Data Viz</a></td>
 <td>911 2015 calls on Montgomery County - data visualization project</td>
 </tr>
