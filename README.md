@@ -9,6 +9,10 @@
 </thead>
 <tbody>
 <tr>
+<td><a href="https://nbviewer.jupyter.org/github/OckerGui/DataScience/blob/master/Covid_e_Google_Mobility_Report.ipynb" rel="nofollow">Covid and Google Mobility Report</a></td>
+<td>Exploring the relation between Brazil Covid 19 cases and the data from Google Mobility Report. The effects of different quarantine methods across Brazil. Forecast Using ARIMA methods. </td>
+</tr>
+<tr>
 <td><a href="https://github.com/OckerGui/DataScience/blob/master/Custom_Keras_API_Project_Exercise.ipynb" rel="nofollow">Custom Keras project - Lending Club</a></td>
 <td>Custom LendingClub DataSet - DS course project (Data viz/cleaning and feat engineering)- TensorFlow/Keras model</td>
 </tr>
